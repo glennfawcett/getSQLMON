@@ -3,7 +3,8 @@
 # getSQLMON.sh
 #
 # Description:
-#   get SQLMON for all queries with specific SQL_ID
+#   Get the SQLMON for all queries that match a specific SQL text pattern.
+#   This utility will add a wildcard % % around the text string supplied. 
 #
 
 
